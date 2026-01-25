@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 This repository contains my hands-on cybersecurity practice, labs, and learning summaries as I build skills toward a SOC / Cybersecurity Analyst role.
-
+> **Note:** This repository documents learning and applied reasoning from cybersecurity coursework and hands-on labs. Content is intentionally foundational and evolves as knowledge expands.
 ---
 
 ## 🔗 Public Profiles & Certifications
