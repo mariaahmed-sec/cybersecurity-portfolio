@@ -16,7 +16,7 @@ This repository contains my hands-on cybersecurity practice, labs, and learning 
 
 ## 📂 Repository Structure (in progress)
 
-- `Google-Cybersecurity-Courses/` – Learning summaries from each course
+- `01-Course-Foundations/` – Learning summaries from each course
 - `Linux-Labs/` – Command-line practice and exercises
 - `SQL-Labs/` – Query practice for analysis and reporting
 - `SIEM-Analysis/` – Log analysis and detection labs
